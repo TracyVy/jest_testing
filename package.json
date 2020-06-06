@@ -1,18 +1,27 @@
 {
   "name": "06_01",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "directories": {
-    "test": "jest"
+    "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "jest": "^26.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TracyVy/jest_testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TracyVy/jest_testing/issues"
+  },
+  "homepage": "https://github.com/TracyVy/jest_testing#readme",
+  "description": ""
 }
